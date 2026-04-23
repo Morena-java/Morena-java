@@ -3,7 +3,7 @@
 <!--
 I'm a Backend C# Developer based in South Africa/Johannesburg.
 I build and Object Orientated Applications.
-Full Stack Applications i use: HTML,CSS and C#.
+ Applications with C#.
 
 My tech Stack is: .NET
 My Favourite tool Is .NET
